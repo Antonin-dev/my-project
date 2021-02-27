@@ -36,7 +36,15 @@ export default {
     title: 'Stack',
     tech: [
       {
-        img: process.env.PUBLIC_URL + '/assets/js.png',
+        img: process.env.PUBLIC_URL + '/assets/htmlcss.png',
+        alt: 'mongodb',
+      },
+      {
+        img: process.env.PUBLIC_URL + '/assets/bootstrap.png',
+        alt: 'mongodb',
+      },
+      {
+        img: process.env.PUBLIC_URL + '/assets/javascript.png',
         alt: 'mongodb',
       },
       {
@@ -45,6 +53,10 @@ export default {
       },
       {
         img: process.env.PUBLIC_URL + '/assets/php.png',
+        alt: 'express',
+      },
+      {
+        img: process.env.PUBLIC_URL + '/assets/mysql.png',
         alt: 'express',
       },
       {
