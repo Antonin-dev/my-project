@@ -16,7 +16,7 @@ export default {
     typical: [
       'web developer. 🖥',
       2000,
-      'Back-end speciality. 📹',
+      'back end specialist. 📹',
       2000,
       'Mobile Developer',
       2000,
